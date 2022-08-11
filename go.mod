@@ -13,4 +13,7 @@ require (
 	github.com/scala/scala v2.13.8+incompatible // indirect
 	github.com/torvalds/linux v2.6.39 // indirect
 	github.com/SerenityOS/jakt v0.0.0-20220811204157-6a9f52afcca1 // indirect
+	github.com/carbon-language/carbon-lang v0.0.0-20220811190651-bb0aac61a30f // indirect
+	github.com/crystal-lang/crystal v0.24.1 // indirect
+	github.com/oven-sh/bun v0.1.1 // indirect
 )
