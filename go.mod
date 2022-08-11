@@ -12,4 +12,5 @@ require (
 	github.com/vlang/v v0.1.13 // indirect
 	github.com/scala/scala v2.13.8+incompatible // indirect
 	github.com/torvalds/linux v2.6.39 // indirect
+	github.com/SerenityOS/jakt v0.0.0-20220811204157-6a9f52afcca1 // indirect
 )
